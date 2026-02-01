@@ -59,7 +59,7 @@ public class Conditionals {
         else if (c >max) {
             max = c;
         }
-        Optimized Version
+        // Optimized Version
         float max = Math.max(c,Math.max(a,b));
         System.out.println("Maximum betweeen three Numbers:- "+max);
 
